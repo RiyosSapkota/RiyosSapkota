@@ -5,16 +5,19 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3654,100:A3492F&height=140&section=header&text=Data%20%2B%20AI&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Data + AI banner" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Focus-Data%20Analytics-2c3654?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/Focus-Data%20Analytics%2C%20AI%20%26%20ML-2c3654?style=flat-square" alt="Focus" />
 <img src="https://img.shields.io/badge/Lives-Dubai%2C%20UAE-a3492f?style=flat-square" alt="Location" />
 <img src="https://img.shields.io/badge/Languages-Python%20%7C%20SQL-4a8a5f?style=flat-square" alt="Languages" />
 </p>
 
 ## 🎯 About Me
+
+<table>
+<tr>
+<td width="30%" valign="middle" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" />
+</td>
+<td width="70%" valign="top">
 
 ```python
 riyos = {
@@ -42,6 +45,10 @@ riyos = {
     "approach": "Build real systems, not tutorials"
 }
 ```
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
