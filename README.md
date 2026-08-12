@@ -12,10 +12,6 @@
 
 ## 🎯 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ```python
 riyos = {
     "role": "Data Analyst",
@@ -42,13 +38,6 @@ riyos = {
     "approach": "Build real systems, not tutorials"
 }
 ```
-
-</td>
-<td width="50%" valign="top" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" style="max-width:450px;" />
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech Stack
 
