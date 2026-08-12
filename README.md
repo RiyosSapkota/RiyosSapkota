@@ -14,10 +14,7 @@
 
 <table>
 <tr>
-<td width="30%" valign="middle" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" />
-</td>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ```python
 riyos = {
@@ -46,6 +43,9 @@ riyos = {
 }
 ```
 
+</td>
+<td width="50%" valign="top" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="100%" style="max-width:450px;" />
 </td>
 </tr>
 </table>
